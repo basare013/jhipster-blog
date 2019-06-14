@@ -1,0 +1,44 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "blog",
+    "packageName": "io.github.jhipster.blog",
+    "packageFolder": "io/github/jhipster/blog",
+    "serverPort": 8080,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [
+      "protractor"
+    ],
+    "enableTranslation": false,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "6.1.0",
+    "jwtSecretKey": "MGQzMjc2MWFkOTM1ZmY1OTAyN2VmMjc3Y2VmYTA5OTY0YzEzMGViN2UxZTA3N2UyYjUwMDExMTk2Zjg4Mjg4OWYyMDhhNTYyNThiZDYyODE2NDc5MzExMmJlNTkzNDFhN2RlYTM4ZjUwZTFiNGU1MDU5ZTM1YmUyMDVjNWQ4MjU=",
+    "clientTheme": "none",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": []
+  },
+  "git-provider": "GitHub",
+  "git-company": "basare013",
+  "repository-name": "jhipster-blog"
+}
